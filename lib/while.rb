@@ -2,6 +2,8 @@
 
 counter = 0
 def using_while
-	puts "Wingardium Leviosa"
-  counter = counter + 1
+  loop do
+    counter += 1
+    puts "Wingardium Leviosa"
+end
 end
