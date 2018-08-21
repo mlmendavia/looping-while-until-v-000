@@ -8,12 +8,10 @@
 # end
 # end
 
-def using_while
-end
 
 
 counter = 0
-while using_while < 10
+while counter < 10
   puts "Wingaridum Leviosa"
   counter += 1
 end
