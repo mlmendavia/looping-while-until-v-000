@@ -8,6 +8,9 @@
 # end
 # end
 
+def using_while
+end
+
 
 counter = 0
 while counter < 10
